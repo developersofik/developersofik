@@ -14,8 +14,8 @@ Experienced and detail-oriented Web Developer with a strong passion for creating
 
 ## Let's Connect
 Connect with me on professional platforms:
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/developersofik/)
+- Portfolio: [Portfolio Website](https://www.developersofik.xyz)
+- Twitter: [@developersofik](https://twitter.com/developersofik)
 
 Feel free to reach out for collaboration opportunities or to discuss web development strategies. Let's create exceptional digital experiences together!
