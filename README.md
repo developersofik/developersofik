@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sofikul Islam
 
 ## About Me
-As a Front End Web Developer, my focus is on creating flawless websites that delight clients. With expertise in WordPress, ReactJS, JavaScript, and PHP, I've built a reputation for delivering high-quality work and maintaining open communication. Passionate about learning and sharing knowledge, I'm always ready to tackle real-world challenges head-on, ensuring 100% client satisfaction every step of the way.
+As a Full Stack  Developer, my focus is on creating flawless websites that delight clients. With expertise in WordPress, Vue.js,ReactJS, JavaScript, PHP and Laravel, I've built a reputation for delivering high-quality work and maintaining open communication. Passionate about learning and sharing knowledge, I'm always ready to tackle real-world challenges head-on, ensuring 100% client satisfaction every step of the way.
 
 ## Skills
 - HTML5, CSS3, JavaScript
