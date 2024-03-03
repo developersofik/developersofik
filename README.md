@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sofikul Islam
 
-##🟨 About Me
+## 🟨 About Me
 As a Full Stack  Developer, my focus is on creating flawless websites that delight clients. With expertise in WordPress, Vue.js,ReactJS, JavaScript, PHP and Laravel, I've built a reputation for delivering high-quality work and maintaining open communication. Passionate about learning and sharing knowledge, I'm always ready to tackle real-world challenges head-on, ensuring 100% client satisfaction every step of the way.
 
 ## 👨‍🏫 Skills
